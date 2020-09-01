@@ -2,7 +2,7 @@
 
 Let's make the English language simpler.
 
-- [Rules](#rules)
+- Rules
    * [Grammar](#grammar)
    * [Vocabulary](#vocabulary)
    * [Pronunciation](#pronunciation)
@@ -10,7 +10,7 @@ Let's make the English language simpler.
 - [Example](#example)
 
 ## Rules
-### Grammar
+## Grammar
 | Before | After | Before Example | After Example | Description |
 |--------|-------|----------------|---------------|-------------|
 | an | a | I ate ~~`an`~~ orange | I ate `a` orange | Never use `an` |
@@ -19,12 +19,12 @@ Let's make the English language simpler.
 | has | have | He ~~`has`~~ been there | He `have` been there | Never use `has` for singular third person |
 | it is | it | It ~~`is`~~ an example | It an exmple | Never use `is` after it |
 
-### Vocabulary
+## Vocabulary
 | Before | After | Description |
 |--------|-------|-------------|
 | This / That | it | Always use `it` instead of `this` or `that` |
 
-### Pronunciation
+## Pronunciation
 I'm not going to write full phonetics here and instead just show them with simple characters.
 | Sentence | Before | After | Description |
 |----------|--------|-------|-------------|
