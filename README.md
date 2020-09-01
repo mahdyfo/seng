@@ -17,7 +17,7 @@ Let's make the English language simpler.
 | knows | know | He ~~`knows`~~ | He `know` | Never use `s` for singular third person |
 | doesn't | don't | He ~~`doesn't`~~ know | He `don't` know | Never use `does` for singular third person |
 | has | have | He ~~`has`~~ been there | He `have` been there | Never use `has` for singular third person |
-| it is | it | It ~~`is`~~ an example | It an exmple | Never use `is` after it |
+| it is | it | It ~~`is`~~ an example | It `an` exmple | Never use `is` after it |
 
 ## Vocabulary
 | Before | After | Description |
