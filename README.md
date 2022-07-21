@@ -3,6 +3,7 @@
 Let's make the English language simpler.
 
 - Rules
+   * [Letters](#words)
    * [Grammar](#grammar)
    * [Vocabulary](#vocabulary)
    * [Pronunciation](#pronunciation)
@@ -10,7 +11,11 @@ Let's make the English language simpler.
 - [Example](#example)
 
 ## Rules
+## Letters
+a b c d e f g h i k l m n o r s t u v z  
+(j,p,q,w,x,sh,th,zh ) are omitted 
 ## Grammar
+All letters which are written but are not pronouced are removed including e at the end of some words. 
 | Before | After | Before Example | After Example | Description |
 |--------|-------|----------------|---------------|-------------|
 | an | a | I ate ~~`an`~~ orange | I ate `a` orange | Never use `an` |
