@@ -3,19 +3,22 @@
 Let's make the English language simpler.
 
 - Rules
-   * [Letters](#words)
+   * [Letters](#letters)
+   * [Words](#words)
    * [Grammar](#grammar)
    * [Vocabulary](#vocabulary)
    * [Pronunciation](#pronunciation)
    * [Grammar](#grammar)
 - [Example](#example)
 
-## Rules
+# Rules
 ## Letters
 a b c d e f g h i j k l m n o p r s t u v z  
 (q,w,x,y,sh,zh,ph) are omitted 
-## Grammar
+## Words
 All letters which are written but are not pronouced are removed including e at the end of some words.
+## Grammar
+There is no irregular thing anywhere.for example all past tenses are (present tens+ 'ed')
  
 | Before | After | Before Example | After Example | Description |
 |--------|-------|----------------|---------------|-------------|
