@@ -27,7 +27,7 @@ There is no irregular thing anywhere. For example all past tenses are (present t
 | doesn't | don't | He ~~`doesn't`~~ know | He `don't` know | Never use `does` for singular third person |
 | has | have | He ~~`has`~~ been there | He `have` been there | Never use `has` for singular third person |
 | it is | it | It ~~`is`~~ an example | It a exmple | Never use `is` after it |
-| wrote | writed | I ~~`wrote`~~ an article | I `writed` a article | Never use `is` after it |
+| wrote | writed | I ~~`wrote`~~ this | I `writed` this | Simple past tense by adding `ed` |
 
 ## Vocabulary
 | Before | After | Description |
